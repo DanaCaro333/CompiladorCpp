@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/Proyecto.dir/main.cpp.o CMakeFiles/Proyecto.dir/AnalizadorSintactico.cpp.o CMakeFiles/Proyecto.dir/AnalizadorLexico.cpp.o CMakeFiles/Proyecto.dir/Hoja.cpp.o CMakeFiles/Proyecto.dir/Nodo.cpp.o  -o Proyecto 
